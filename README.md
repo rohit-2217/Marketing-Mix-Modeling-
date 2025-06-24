@@ -44,16 +44,16 @@ The data dictionary is as follows:
     
 The solution workbook consists of the following worksheets : 
 
-MMM Data - Dataset of digital channels marketing spends and sales for a fictious soda company
-Seasonality Analysis - Data exploration, analysis to find the seasonality in the sales data
-Trend Analysis - Exploring Data for Trends in Sales Volume usin Regression model
-Media Analysis - Exploring Data to find the correlation of sales with different media channels to find the association
-Price vs SalesVolume - Data exploration, analysis to find the correlation of price and sales volume in the sales data
-Promotions Alaysis - Data exploration, analysis to find the correlatio between promotions and sales volume 
-SalesVol Regression -  Regression model for fitting sales volume over different media channels
-Promotions Regression -  Regression model for fitting Promotions over different media channels
-Sales vs Promotions - Partial COrrelations between sales volume and promotions, partialling out the media channels
-Competitor analysis - Correlation analysis to find out the effect of competitior advertisment strategy over sales
-Adstock Transformation :  Transforming given data for better visibility
+  - MMM Data - Dataset of digital channels marketing spends and sales for a fictious soda company
+  - Seasonality Analysis - Data exploration, analysis to find the seasonality in the sales data
+  - Trend Analysis - Exploring Data for Trends in Sales Volume usin Regression model
+  - Media Analysis - Exploring Data to find the correlation of sales with different media channels to find the association
+  - Price vs SalesVolume - Data exploration, analysis to find the correlation of price and sales volume in the sales data
+  - Promotions Alaysis - Data exploration, analysis to find the correlatio between promotions and sales volume 
+  - SalesVol Regression -  Regression model for fitting sales volume over different media channels
+  - Promotions Regression -  Regression model for fitting Promotions over different media channels
+  - Sales vs Promotions - Partial COrrelations between sales volume and promotions, partialling out the media channels
+  - Competitor analysis - Correlation analysis to find out the effect of competitior advertisment strategy over sales
+  - Adstock Transformation :  Transforming given data for better visibility
 
 
